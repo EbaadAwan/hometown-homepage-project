@@ -1,19 +1,3 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Hometown Homepage
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+This was my first small project using HTML and CSS. The idea came from Scrimba's Fullstack Developer Path where after each module, students are given a project they need to complete from scratch. The first module taught HTML and CSS basics and I used the concepts I learned from the module to complete this small project. This project required me to create a single hometown homepage from where I am from, or use the example template given from the teacher. I ended up using the example template and completed the project. I got to use concepts such as The Box Model, background images, and flex. I also learned and used appropriate CSS selectors when it came to styling elements, classes or IDs. The project is simple to view, all that needs to be done is to clone the repository and opening the index page with a live server. Since this project was created in the Scrimba environment, there will be a lot of white space and the content will be on the left side of the page. 
