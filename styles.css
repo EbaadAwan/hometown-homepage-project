@@ -1,0 +1,146 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+.hero {
+    padding: 1px;
+    width: 720px;
+    height: 343px;
+    
+    background-image: url("images/torshov.jpg");
+    background-size: cover;
+}
+
+.label {
+    width: 225px;
+    height: 42px;
+    margin: 120px auto 0 auto;
+    background: #1D3557;
+    color: #FFFFFF;
+    border-radius: 10px;
+    
+    padding-top: 5px;
+}
+
+.info {
+    font-size: 19px;
+    width: 412px;
+    height: 52px;
+    margin: 11px auto 119px auto;
+    background: #457B9D;
+    color: #FFFFFF;
+    border-radius: 10px;
+    
+    padding-top: 5px;
+}
+
+.activities {
+    padding: 1px;
+    width: 720px;
+    height: 343px;
+    background: #F1FAEE;
+    color: #1D3557;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item1 {
+    width: 198px;
+    height: 227px;
+    font-size: 16px;
+}
+
+.item2 {
+    width: 198px;
+    height: 227px;
+    font-size: 16px;
+}
+
+.item3 {
+    width: 198px;
+    height: 227px;
+    font-size: 16px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.big-bold {
+    font-weight: 700;
+}
+
+.small-bold {
+    font-weight: 400;
+}
+
+.m {
+    margin-bottom: 54px;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.guide {
+    width: 720px;
+    height: 394px;
+}
+
+.w {
+    width: 400px;
+    margin: 50px auto 0 auto;
+    padding: 25px 30px;
+    background: #A8DADC; 
+    border-radius: 10px;
+    
+    border-bottom: 5px solid #1D3557;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#avatar {
+    width: 180px;
+    height: 249px;
+    
+    border-radius: 10px;
+}
+
+.italics {
+    color: #1D3557;
+}
+
+.i {
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h4 {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.o {
+    font-size: 24px;
+    font-weight: 700;
+}
